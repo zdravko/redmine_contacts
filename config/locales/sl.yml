@@ -1,0 +1,287 @@
+sl:
+  contacts_title: Kontakti
+
+  label_all_people: Vse osebe
+  label_all_companies: Vsa podjetja
+  label_all_people_and_companies: Vsi kontakti
+  label_recently_viewed: Pogledano pred kratkim
+  label_gravatar_enabled: Uporabi Gravatar  
+  label_contacts_thumbnails_enabled: Pokaži pomanjšane slike v zabeležkah
+  label_max_contacts_thumbnail_file_size: Max velikost pomanjšanih slik
+  label_contacts_view_all: Pregled vseh kontaktov
+  label_contact_files: Datoteke
+  label_task_plural: Naloge
+  label_contact_background_info: Splošne informacije
+  label_person: Oseba
+  label_company: Podjetje   
+  label_contact_plural: Kontakti
+  label_contact_information: Kontaktni podatki
+  label_contact_edit_information: Uredi kontaktne podatke
+  label_edit_tags: Uredi oznake
+  label_contact_view: Pregled
+  label_contact_list: Seznam
+  label_contact_new: Novi kontakt
+  label_at_company: pri
+  label_last_notes: Zadnje zabeležke
+  label_tags_plural: Oznake
+  label_multi_tags_plural: Izveri več oznak
+  label_single_tag_mode: Samo ena oznaka
+  label_multiple_tags_mode: Več oznak
+  label_contact_tag: Oznaka
+  label_time_ago: prej
+  label_add_note_plural: Dodaj zabeležke k 
+  label_note_plural: Zabeležke
+  label_company_employees: Zaposleni
+  label_add_tags_rule: ločeno z vejicami
+  label_contact_search: Iskanje po imenu
+  label_note_for: Zabeležka za
+  label_show_on_map: Prikaži na zemljevidu   
+  label_add_another_phone: dodaj telefon
+  label_remove: izbriši
+  label_related_contacts: Sorodni kontakti
+  label_assigned_to: Odgovoren
+  label_issue_added: Zahtevek dodan
+  label_add_emails_rule: ločeno z vejicami
+  label_add_phones_rule: ločeno z vejicami 
+  label_add_employee: Novi zaposleni
+  label_merge_duplicate_plural: Združi
+  label_duplicate_plural: Možni duplikat
+  label_duplicate_for_plural: Možni duplikati za
+  label_add_tag: + dodaj oznako
+   
+  label_note_show_extras: Dodatno (vrsta, datum, datoteke)
+  label_note_hide_extras: Skrij dodatno
+  label_note_added: Zabeležka dodana
+  label_note_read_more: (beri več)
+  label_invoice_import: Uvozi račune iz CSV
+
+  label_deal_plural: Naročila
+  label_contractor_plural: Naročniki
+  label_deal: Naročila
+  label_deal_new: Novo naročilo
+  label_deal_edit_information: Uredi podatke o naročilu
+  label_deal_change_status: Spremeni status
+  label_statistics: Statistika
+  label_deals_import: Uvozi naročila iz CSV
+  
+  label_deal_status_new: Novo
+  label_deal_status_first_contact: Prvi stik
+  label_deal_status_negotiations: Pogajanja
+  label_deal_status_pending: Čakajoče
+  label_deal_status_won: Dogovorjeno
+  label_deal_status_lost: Izgubljeno
+  
+  label_created_on: Narejeno
+
+  field_note_date: Datum zabeležke
+  field_background: Splošen opis
+  field_currency: Valuta
+  field_contact: Kontakt
+  
+  field_deal_name: Ime
+  field_deal_background: Splošen opis
+  field_deal_contact: Kontakt
+  field_deal_price: Vsota
+  field_price: Vsota
+  
+  field_contact_avatar: Avatar
+  field_contact_is_company: Podjetje
+  field_contact_name: Naziv
+  field_contact_last_name: Priimek
+  field_contact_first_name: Ime
+  field_contact_middle_name: Srednje ime
+  field_contact_job_title: Službeni naziv
+  field_contact_company: Podjetje
+  field_contact_address: Naslov
+  field_contact_phone: Telefon
+  field_contact_email: Email
+  field_contact_website: Spletno mesto
+  field_contact_skype: Skype
+  field_contact_status: Status   
+  field_contact_background: Splošni podatki   
+  field_contact_tag_names: Oznake
+  field_first_name: Ime
+  field_last_name: Priimek
+  field_company: Podjetje
+  field_birthday: Rojstni dan
+  field_contact_department: Oddelek
+  
+  
+  field_company_field: Vsta dejavnosti
+  
+  field_color: Barva
+  
+  button_add_note: Dodaj zabeležko
+  notice_successful_save: Uspešno shranjeno
+  notice_successful_add: Uspešno narejeno
+  notice_unsuccessful_save: Napake pri shranjevanju
+  notice_successful_merged: Uspešno združeno
+  
+  notice_merged_warning: Vse zabeležke, projekti, oznake in naloge dodeljene tej osebi bodo prenešene na tu izbrano kontaktno osebo. Kontakt bo potem izbrisan.
+  
+  project_module_contacts_module: Kontakti
+  
+  permission_view_contacts: Pregled kontaktov
+  permission_edit_contacts: Urejanje kontaktov
+  permission_delete_contacts: Brisanje kontaktov
+  permission_view_deals: Pregled naročil
+  permission_edit_deals: Urejanje naročil
+  permission_delete_deals: Brisanje naročil
+  permission_add_notes: Dodajanje zabeležk
+  permission_delete_notes: Brisanje zabeležk
+  permission_delete_own_notes: Brisanje lastnih zabeležk
+  
+  # 2.0.0   
+  label_deal_category: Kategorija naročil
+  label_deal_category_plural: Kategorije naročil   
+  label_deal_category_new: Nova kategorija
+  text_deal_category_destroy_assignments: Izbriši dodeljeno kategorijo
+  text_deal_category_destroy_question: "Nekaj naročil (%{count}) je uvrščenih v to kategorijo. Kaj boste naredili?"
+  text_deal_category_reassign_to: Prerazporedi naročila v to kategorijo
+
+  text_deals_destroy_confirmation: 'Ali ste prepričani da želite izbrisati izbrano naročilo(a)?'
+  label_deal_status_plural: Statusi naročil
+  label_deal_status: Status naročila
+  field_deal_status_is_closed: Zaprto
+  label_deal_status_new: Novo
+  permission_manage_contacts: Seznami
+  label_sales_funnel: Prodajni kanal
+  label_period: Obdobje
+  label_count: Število
+  
+  #2.0.1
+  label_user_format: Format imena kontakta
+  label_my_contact_plural: Kontakti dodeljeni meni
+  label_my_deal_plural: Odprta naročila dodeljena meni
+  label_contact_view_all: Pregled vseh kontaktov
+  label_deal_view_all: Pregled vseh naročil
+  
+  #2.0.2
+  label_bulk_edit_selected_contacts: Uredi izbrane kontakte
+  label_bulk_edit_selected_deals: Uredi izbrana naročila
+  label_bulk_send_mail_selected_contacts: Pošlji e-mail izbranim kontaktom
+  field_add_tags: Dodaj oznake
+  field_delete_tags: Briši oznake
+  label_send_mail: Pošlji email
+  error_empty_email: Emil ne sme biti prazen
+  permission_send_contacts_mail: Pošlji email
+  field_mail_from: Naslov pošiljatelja
+  text_email_macros: Makro-ji na voljo %{macro}
+  field_message: Sporočilo
+
+  #2.0.3
+  label_add_contact: Dodaj novi kontakt k projektu
+  label_contact: Kontakt
+  field_age: Starost
+  label_vcf_import: Uvozi iz vCard
+  label_mail_from: Od
+  permission_import_contacts: Uvozi kontakte
+  
+  #2.1.0
+  field_company_name: Naziv podjetja
+  label_recently_added_contacts: Nazadnje dodani kontakti
+  label_created_by_me: Kontakti, ki sem jih jaz naredil
+  my_contacts: Moji kontakti
+  my_deals: Moja naročila
+
+  #2.2.0
+  label_note_type_email: Email
+  label_note_type_call: Klic
+  label_note_type_meeting: Sestanek
+  field_deal_currency: Valuta
+  label_my_contacts_stats: Statistika kontaktov ta mesec
+  label_contacts_created: Kontakti narejeni
+  label_deals_created: Naročila narejena
+  my_contacts_avatars: Slike mojih kontaktov
+  my_contacts_stats: Statistika kontaktov
+  label_add_into: Dodaj v
+  label_delete_from: Briši iz
+  label_show_deaks_tab: Prikaži zavihek z naročili
+  label_show_on_projects_show: Prikaži kontakte ob pregledu projektov
+  
+  #2.2.1
+  label_contacts_show_in_list: Prikaži kot seznam
+  
+  #2.3.0
+  label_module_plural: Moduli
+  label_contacts_default_currency: Privzeta valuta za naročilo
+  label_contacts_list_partial_style: Oblika seznama kontaktov
+  label_contacts_list_excerpt: Seznam izvlečkov
+  label_contacts_list_cards: Cards
+  label_contacts_list_list: Tabela
+  field_contacts: Kontakt
+  field_companies: Podjetje
+  label_contacts_added_time_by: Dodal
+  label_contact_note_authoring_time: Prikaži čas zabeležke
+  label_contact_issues_filters: Filtri zahtevkov
+  label_contacts_csv_import: Uvozi iz CSV
+  label_contacts_upload_encoding: Encoding za datoteke
+  label_contacts_csv_file: CSV datoteka
+  label_contacts_csv_separator: Ločilo
+  field_middle_name: Srednje ime
+  field_job_title: Službeni naziv
+  field_company: Podjetje
+  field_address: Naslov
+  field_phone: Telefone
+  field_email: Email
+  field_tags: Oznake
+  field_last_note: Zadnja zabeležka
+  field_is_company: Je podjetje
+  field_contact_full_name: Polno ime
+  button_contacts_edit_query: Uredi poizvedbo
+  button_contacts_delete_query: Briši poizvedbo
+  permission_manage_public_contacts_queries: Uredi javne poizvedbe
+  permission_add_deals: Dodaj naročila
+  permission_add_contacts: Dodaj kontakte
+  permission_save_contacts_queries: Shrani poizvedbe
+
+  #2.3.3
+  label_contact_show_in_app_menu: Prikaži zavihke v meniju
+
+  #2.3.4
+  label_contact_show_closed_issues: Prikaži zaprte zahtevke
+
+  #3.0.0
+  label_contacts_import: Uvozi
+  label_contact_note_plural: Zabeležke pri kontaktih
+  label_deal_note_plural: Zabeležke pri naročilih
+  label_contact_all_note_plural: Vse zabeležke
+  error_unable_delete_deal_status: "Status: naročila ni možno izbrisati"
+  label_contacts_hidden: Skriti kontakti
+
+  #3.1.0
+  label_crm_contact_added: Kontakt dodan
+  label_crm_note_added: Zabeležka dodana
+  label_crm_deal_added: Naročilo dodano
+  label_crm_deal_updated: Naročilo posodbljeno
+  text_crm_contact_added: "Kontakt %{name} je dodal %{author}."
+  text_crm_deal_added: "Naročilo %{name} je dodal %{author}."
+  text_crm_deal_status_changed: "Status naročila spremenjen iz %{old} v %{new}"
+  text_crm_deal_updated: "Naročilo %{name} posodobil %{author}."
+  label_contacts_cc: Cc
+  label_contacts_bcc: Bcc
+  label_contact_import: Uvozi iz CSV
+  permission_import_deals: Uvažanje naročil
+  label_crm_single_quotes: "Enojni narekovaj (')"
+  label_crm_double_quotes: "Dvojni narekovaj (\")"
+  label_crm_quotes_type: Quotation marks type
+  label_contacts_visibility: Vidljivost
+  label_contacts_visibility_project: Po projektnih privilegijih
+  label_contacts_visibility_public: Javno
+  label_contacts_visibility_private: Zasebno
+  permission_view_private_contacts: Pregled zasebnih kontaktov
+  text_crm_error_on_line: 'Napaka v vrstici %{line}: %{error}.'
+
+  #3.2.0
+  label_crm_probability: Verjetnos
+  label_crm_deal_status_type: Vrste statusov
+  label_crm_select_companies: Izbiranje naročil po podjetjih
+  label_crm_expected_revenue: Pričakovan prihodek
+  label_crm_deal_due_date: Rok izvedbe
+
+  #3.2.2
+  label_crm_show_deals_in_top_menu: Prikaži naročila v vrhnjem meniju
+  label_crm_show_details: Prikaži podrobnosti
+  label_crm_has_deals: Ima naročila
+  label_crm_has_open_issues: Ima odprte zahtevke
+  label_crm_note: Zabeležka
